@@ -22,7 +22,7 @@ https://github.com/Camargovf/Projeto-Comercio-RestApi/tree/master
 - [x] CRUD de cliente
 - [x] CRUD de entregas
 - [x] CRUD de ocorrências
-- [ ] Host Cloud
+- [x] Docker
 
 ### 📖 Sobre
 
@@ -30,6 +30,7 @@ https://github.com/Camargovf/Projeto-Comercio-RestApi/tree/master
 Possível registrar cliente com suas informações, solicitar, registrar, alterar e deletar.
 Possível registrar entregas com informações de destinatário, solicitar, alterar e finalizar.
 Possível registrar ocorrências e verificar os pedidos, além do CRUD restante.
+O banco mysql foi criado com Docker e configurado yml.
 
 ### 🛠 Tecnologias
 
@@ -43,7 +44,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [ModelMapper](http://modelmapper.org)
 - [Flyway](http://flywaydb.org)
 - [Swagger](http://swagger.io)
-
+- [Docker](https://www.docker.com)
 
 [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 
